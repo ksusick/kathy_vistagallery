@@ -99,11 +99,10 @@ img {
 
 /**********SLIDER GALLERY CUSTOM STYLE **********/
 
-.row > * {
+/* .row > * {
   padding-right: 0 !important;
   padding-left: 0 !important;
-
-  }
+  } */
 
 #slides {
 padding-right: 0;
@@ -112,7 +111,6 @@ padding-right: 0;
 img.demo.cursor {
     object-fit: cover !important;
 }
-
 
 body {font-family: Arial, Helvetica, sans-serif;}
 
@@ -154,7 +152,6 @@ figcaption {
   color: #666;
   text-decoration: underline;
 }
-
 
 
 /* The Modal (background) */
